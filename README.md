@@ -1,7 +1,10 @@
 # 并行计算gauss_seidel算子加速报告
+
+注: 本项目是北京大学并行与分布式计算基础(一)的期末作业，作者在结课后放出，仅供学习交流使用
+
 ## 问题介绍和分析
 
-本次作业使用cuda加速gauss_seidel算子和residue norm计算。
+本项目使用cuda加速gauss_seidel算子和residue norm计算。
 
 - gauss_seidel算子伪码如下：
 
